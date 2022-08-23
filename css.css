@@ -1,0 +1,27 @@
+h1{
+    color: rgb(226, 8, 8);
+    font-family: roboto;
+    text-align: center;
+}
+li {
+    display: inline;
+    
+}
+.title{
+    color: blue;
+    background-color: yellow;
+}
+.subtitle{
+    color: greenyellow;
+    background-color: black;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(51, 183, 216);
+}
+IMG{
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+    h2{ text-align: center }
